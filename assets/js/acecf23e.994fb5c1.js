@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkriyafx_docu=self.webpackChunkkriyafx_docu||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/kriyafx-docu/blog","blogTitle":"Blog","authorsListPath":"/kriyafx-docu/blog/authors"}')}}]);
